@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhmrya/Leetcode/tree/master/0242-valid-anagram) |
+| [3713-longest-balanced-substring-i](https://github.com/abhmrya/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3829-design-ride-sharing-system](https://github.com/abhmrya/Leetcode/tree/master/3829-design-ride-sharing-system) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhmrya/Leetcode/tree/master/0242-valid-anagram) |
+| [3713-longest-balanced-substring-i](https://github.com/abhmrya/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/abhmrya/Leetcode/tree/master/3829-design-ride-sharing-system) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/abhmrya/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/abhmrya/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
