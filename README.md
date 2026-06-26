@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhmrya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhmrya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/abhmrya/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3794-reverse-string-prefix](https://github.com/abhmrya/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhmrya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/abhmrya/Leetcode/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
