@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/abhmrya/Leetcode/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/abhmrya/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhmrya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abhmrya/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/abhmrya/Leetcode/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
