@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/abhmrya/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/abhmrya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/abhmrya/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhmrya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhmrya/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/abhmrya/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
