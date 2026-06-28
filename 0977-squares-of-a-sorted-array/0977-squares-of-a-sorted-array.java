@@ -9,8 +9,6 @@ class Solution {
         while(i<=j){
             int n = nums[i]*nums[i];
             int n1 = nums[j]*nums[j];
-            System.out.println(n);
-            System.out.println(n1);
 
             if(n>n1){
                 arr[k]=n;
