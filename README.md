@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/abhmrya/Leetcode/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/abhmrya/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhmrya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhmrya/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
