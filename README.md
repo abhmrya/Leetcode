@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhmrya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhmrya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhmrya/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1331-rank-transform-of-an-array](https://github.com/abhmrya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhmrya/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/abhmrya/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3713-longest-balanced-substring-i](https://github.com/abhmrya/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhmrya/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/abhmrya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/abhmrya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/abhmrya/Leetcode/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhmrya/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/abhmrya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhmrya/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhmrya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhmrya/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
