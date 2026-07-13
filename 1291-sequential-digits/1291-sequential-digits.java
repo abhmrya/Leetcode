@@ -6,7 +6,6 @@ class Solution {
             int sum = 0;
             for(int j =i; j<= 9; j++ ){
                 sum=sum*10+j;
-                System.out.println(sum);
                 if(sum >=low && sum<=high ){
                     list.add(sum);
                 }
