@@ -42,16 +42,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abhmrya/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhmrya/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/abhmrya/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abhmrya/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhmrya/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/abhmrya/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abhmrya/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhmrya/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/abhmrya/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Array
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhmrya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1529-minimum-suffix-flips](https://github.com/abhmrya/Leetcode/tree/master/1529-minimum-suffix-flips) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/abhmrya/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
