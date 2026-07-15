@@ -1,6 +1,5 @@
 class Solution {
     int GDC(int a, int b){
-        
         while(a!=0){
            int temp = a;
             a = b%a;
@@ -11,7 +10,7 @@ class Solution {
 
     public int gcdOfOddEvenSums(int n) {
         int sumOdd = n*n;
-        int sumEven = n*n-n;
+        int sumEven = n*(n-1);
         if(n==1) return 1;        
         // for(int i =1; i<=2*n; i++){
         //     if(i%2==0){
