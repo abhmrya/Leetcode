@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/abhmrya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/abhmrya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhmrya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhmrya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhmrya/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/abhmrya/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhmrya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhmrya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhmrya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhmrya/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhmrya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhmrya/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhmrya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhmrya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/abhmrya/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhmrya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhmrya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhmrya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
