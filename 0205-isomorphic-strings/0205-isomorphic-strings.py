@@ -1,0 +1,20 @@
+class Solution:
+    def isIsomorphic(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+        s_to_t = {}
+        t_to_s = {}
+        for i in range(len(s)):
+            a = s[i]
+            b = t[i]
+
+            if a in s_to_t and s_to_t[a]!=b:
+                return False
+
+            if b in t_to_s and t_to_s[b]!=a:
+                return False
+            
+            t_to_s[b] = a
+            s_to_t[a] = b
+
+        return True
