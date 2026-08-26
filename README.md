@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhmrya/Leetcode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhmrya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0303-range-sum-query-immutable](https://github.com/abhmrya/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0605-can-place-flowers](https://github.com/abhmrya/Leetcode/tree/master/0605-can-place-flowers) |
 | [0896-monotonic-array](https://github.com/abhmrya/Leetcode/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhmrya/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhmrya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/abhmrya/Leetcode/tree/master/0605-can-place-flowers) |
 | [1529-minimum-suffix-flips](https://github.com/abhmrya/Leetcode/tree/master/1529-minimum-suffix-flips) |
 ## Breadth-First Search
 |  |
