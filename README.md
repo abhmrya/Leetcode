@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhmrya/Leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/abhmrya/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhmrya/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/abhmrya/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhmrya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abhmrya/Leetcode/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/abhmrya/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/abhmrya/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhmrya/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/abhmrya/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/abhmrya/Leetcode/tree/master/0383-ransom-note) |
