@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhmrya/Leetcode/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/abhmrya/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/abhmrya/Leetcode/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/abhmrya/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhmrya/Leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhmrya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/abhmrya/Leetcode/tree/master/3174-clear-digits) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhmrya/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
