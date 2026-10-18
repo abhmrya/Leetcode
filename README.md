@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhmrya/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/abhmrya/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/abhmrya/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/abhmrya/Leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhmrya/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/abhmrya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhmrya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhmrya/Leetcode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhmrya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0303-range-sum-query-immutable](https://github.com/abhmrya/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0561-array-partition](https://github.com/abhmrya/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/abhmrya/Leetcode/tree/master/0605-can-place-flowers) |
 | [0896-monotonic-array](https://github.com/abhmrya/Leetcode/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhmrya/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhmrya/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/abhmrya/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/abhmrya/Leetcode/tree/master/0605-can-place-flowers) |
 | [1529-minimum-suffix-flips](https://github.com/abhmrya/Leetcode/tree/master/1529-minimum-suffix-flips) |
 ## Breadth-First Search
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhmrya/Leetcode/tree/master/0062-unique-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/abhmrya/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
