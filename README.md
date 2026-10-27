@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/abhmrya/Leetcode/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/abhmrya/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhmrya/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/abhmrya/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhmrya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhmrya/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhmrya/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -207,9 +208,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhmrya/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/abhmrya/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/abhmrya/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3174-clear-digits](https://github.com/abhmrya/Leetcode/tree/master/3174-clear-digits) |
 ## Combinatorics
 |  |
